@@ -27,6 +27,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 Video:
+https://drive.google.com/file/d/1phBhTbrUxZIz3WLwSocf8f2Mjq2rPacc/view?usp=sharing
 
 Sample:
 https://github.com/kimmy-hill/Readme/blob/main/newREADME.md
