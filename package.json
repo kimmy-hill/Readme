@@ -1,0 +1,22 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "Create a ReadMe file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimmy-hill/Readme.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimmy-hill/Readme/issues"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "homepage": "https://github.com/kimmy-hill/Readme#readme"
+}
